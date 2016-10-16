@@ -1,4 +1,4 @@
-Order: [Name](https://github.com/ttionya/test/blob/master/README-NAME.md) [Language](https://github.com/ttionya/test/blob/master/README-LANGUAGE.md) [Tags](https://github.com/ttionya/test/blob/master/README-TAGS.md)  (Powered By [Help Me Star](https://github.com/ttionya/help-me-star))
+排序：[名称](https://github.com/ttionya/test/blob/master/README-NAME.md) [语言](https://github.com/ttionya/test/blob/master/README-LANGUAGE.md) [标签](https://github.com/ttionya/test/blob/master/README-TAGS.md)  （由 [Help Me Star](https://github.com/ttionya/help-me-star) 驱动）
 
 <br>
 
