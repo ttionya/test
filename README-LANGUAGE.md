@@ -1,36 +1,59 @@
-## GCC Machine Description
+Order: [Time](https://github.com/ttionya/test/blob/master/README.md) [Name](https://github.com/ttionya/test/blob/master/README-NAME.md) [Tags](https://github.com/ttionya/test/blob/master/README-TAGS.md)  (Powered By [Help Me Star](https://github.com/ttionya/help-me-star))
 
-#### [serverSpeeder_kernel(0oVicero0)](https://github.com/0oVicero0/serverSpeeder_kernel): Copy from http://my.serverspeeder.com/download/
+<br>
 
-## JavaScript
+# GCC Machine Description
 
-#### [baidu(shitao1988)](https://github.com/shitao1988/baidu): ol加载百度地图
+[**serverSpeeder_kernel**](https://github.com/0oVicero0/serverSpeeder_kernel): Copy from http://my.serverspeeder.com/download/  
 
-#### [BaiduYun-PCS-Download(ttionya)](https://github.com/ttionya/BaiduYun-PCS-Download): 使用百度 PCS 下载自己网盘中的资源
 
-#### [GithubStarManage(golmic)](https://github.com/golmic/GithubStarManage): Manage Your Github Stars.炒鸡方便地管理Github Star。
+# JavaScript
 
-#### [jquery(360code)](https://github.com/360code/jquery): 基于jquery1.8.3，分析每个模块代码，了解其实现和设计，让我们在使用jQuery过程中，能够知其然，知其所以然，同时把jQuery不错的设计和实现引入到工作中来。
+[**baidu**](https://github.com/shitao1988/baidu): ol加载百度地图  
+*©*: just test  
+*Tags*: 测试, test, 呵呵
 
-#### [jquery(davemerwin)](https://github.com/davemerwin/jquery): jQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.
+[**BaiduYun-PCS-Download**](https://github.com/ttionya/BaiduYun-PCS-Download): 使用百度 PCS 下载自己网盘中的资源  
+*©*: just test  
+*Tags*: 测试, test, 呵呵
 
-#### [trie(mikedeboer)](https://github.com/mikedeboer/trie): My take on an efficient implementation of a Trie in Javascript
+[**GithubStarManage**](https://github.com/golmic/GithubStarManage): Manage Your Github Stars.炒鸡方便地管理Github Star。  
 
-## PHP
 
-#### [baidu(xiuluo)](https://github.com/xiuluo/baidu): 百度网盘直链
+[**jquery**](https://github.com/360code/jquery): 基于jquery1.8.3，分析每个模块代码，了解其实现和设计，让我们在使用jQuery过程中，能够知其然，知其所以然，同时把jQuery不错的设计和实现引入到工作中来。  
+*©*: just test  
+*Tags*: 测试, test, 呵呵
 
-## Python
+[**jquery**](https://github.com/davemerwin/jquery): jQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.  
+*©*: just test  
+*Tags*: 测试, test, 呵呵
 
-#### [starred(maguowei)](https://github.com/maguowei/starred): creating your own Awesome List used GitHub stars!
+[**trie**](https://github.com/mikedeboer/trie): My take on an efficient implementation of a Trie in Javascript  
+*©*: just test  
+*Tags*: 测试, test, 呵呵
 
-## Shell
+# PHP
 
-#### [serverspeeder(91yun)](https://github.com/91yun/serverspeeder): 锐速破解版
+[**baidu**](https://github.com/xiuluo/baidu): 百度网盘直链  
+*©*: just test  
+*Tags*: 测试, test, 呵呵
 
-## Other
+# Python
 
-#### [2(m8w)](https://github.com/m8w/2): The repository number 2
+[**starred**](https://github.com/maguowei/starred): creating your own Awesome List used GitHub stars!  
 
-#### [test(ttionya)](https://github.com/ttionya/test): null
+
+# Shell
+
+[**serverspeeder**](https://github.com/91yun/serverspeeder): 锐速破解版  
+
+
+# Other
+
+[**2**](https://github.com/m8w/2): The repository number 2  
+*©*: just test  
+*Tags*: 测试, test, 呵呵
+
+[**test**](https://github.com/ttionya/test): *©*: just test  
+*Tags*: 测试, test, 呵呵
 
