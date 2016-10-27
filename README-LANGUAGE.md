@@ -1226,11 +1226,11 @@
 
 
 [**baidu**](https://github.com/shitao1988/baidu): ol加载百度地图  
-*©*: just test  
+*Description*: just test  
 *Categories*: 测试, test, 呵呵
 
 [**BaiduYun-PCS-Download**](https://github.com/ttionya/BaiduYun-PCS-Download): 使用百度 PCS 下载自己网盘中的资源  
-*©*: just test  
+*Description*: just test  
 *Categories*: 测试, test, 呵呵
 
 [**balanced-dashboard**](https://github.com/balanced/balanced-dashboard): The Balanced dashboard.  
@@ -1468,11 +1468,11 @@
 
 
 [**jquery**](https://github.com/360code/jquery): 基于jquery1.8.3，分析每个模块代码，了解其实现和设计，让我们在使用jQuery过程中，能够知其然，知其所以然，同时把jQuery不错的设计和实现引入到工作中来。  
-*©*: just test  
+*Description*: just test  
 *Categories*: 测试, test, 呵呵
 
 [**jquery**](https://github.com/davemerwin/jquery): jQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.  
-*©*: just test  
+*Description*: just test  
 *Categories*: 测试, test, 呵呵
 
 [**jquery**](https://github.com/jquery/jquery): jQuery JavaScript Library  
@@ -1824,7 +1824,7 @@
 
 
 [**trie**](https://github.com/mikedeboer/trie): My take on an efficient implementation of a Trie in Javascript  
-*©*: just test  
+*Description*: just test  
 *Categories*: 测试, test, 呵呵
 
 [**turn.js**](https://github.com/blasten/turn.js): The page flip effect for HTML5  
@@ -1924,7 +1924,7 @@
 
 
 [**baidu**](https://github.com/xiuluo/baidu): 百度网盘直链  
-*©*: just test  
+*Description*: just test  
 *Categories*: 测试, test, 呵呵
 
 [**CodeIgniter**](https://github.com/bcit-ci/CodeIgniter): Open Source PHP Framework (originally from EllisLab)  
@@ -2124,7 +2124,7 @@
 ## Other
 
 [**2**](https://github.com/m8w/2): The repository number 2  
-*©*: just test  
+*Description*: just test  
 *Categories*: 测试, test, 呵呵
 
 [**angular-styleguide**](https://github.com/johnpapa/angular-styleguide): Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.  
@@ -2187,7 +2187,7 @@
 [**pythontutorial3**](https://github.com/sixu05202004/pythontutorial3): python 3.5.1 tutorial中文版  
 
 
-[**test**](https://github.com/ttionya/test): *©*: just test  
+[**test**](https://github.com/ttionya/test): *Description*: just test  
 *Categories*: 测试, test, 呵呵
 
 [**XiaoCai.WinformUI**](https://github.com/aganqin/XiaoCai.WinformUI): XiaoCai.WinformUI is for UI solution  

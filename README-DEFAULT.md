@@ -82,7 +82,7 @@
 
 - [**Modernizr**](https://github.com/Modernizr/Modernizr): Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 
-- [**3di-viewer-rei**](https://github.com/3di/3di-viewer-rei): null
+- [**3di-viewer-rei**](https://github.com/3di/3di-viewer-rei): Empty
 
 - [**npm**](https://github.com/npm/npm): a package manager for javascript
 
@@ -226,7 +226,7 @@
 
 - [**PythonScript**](https://github.com/bruderstein/PythonScript): Python Script plugin for Notepad++
 
-- [**handlebars.js**](https://github.com/wycats/handlebars.js): null
+- [**handlebars.js**](https://github.com/wycats/handlebars.js): Empty
 
 - [**Simple.Data**](https://github.com/markrendle/Simple.Data): A light-weight, dynamic data access component for C# 4.0
 
@@ -270,7 +270,7 @@
 
 - [**gitignore**](https://github.com/github/gitignore): A collection of useful .gitignore templates
 
-- [**csharp-sqlite**](https://github.com/koush/csharp-sqlite): null
+- [**csharp-sqlite**](https://github.com/koush/csharp-sqlite): Empty
 
 - [**JSON-js**](https://github.com/douglascrockford/JSON-js): JSON in JavaScript
 
@@ -404,7 +404,7 @@
 
 - [**ember.js**](https://github.com/emberjs/ember.js): Ember.js - A JavaScript framework for creating ambitious web applications
 
-- [**kaxaml**](https://github.com/thinkpixellab/kaxaml): null
+- [**kaxaml**](https://github.com/thinkpixellab/kaxaml): Empty
 
 - [**todomvc**](https://github.com/tastejs/todomvc): Helping you select an MV* framework - Todo apps for Backbone.js, Ember.js, AngularJS, and many more
 
@@ -582,7 +582,7 @@
 
 - [**morris.js**](https://github.com/morrisjs/morris.js): Pretty time-series line graphs
 
-- [**opensudoku**](https://github.com/romario333/opensudoku): null
+- [**opensudoku**](https://github.com/romario333/opensudoku): Empty
 
 - [**remote-desktop-clients**](https://github.com/iiordanov/remote-desktop-clients): VNC, RDP, SPICE, and oVirt/RHEV/Proxmox Clients for Android and Blackberry 10
 
@@ -590,7 +590,7 @@
 
 - [**RazorPad**](https://github.com/RazorPad/RazorPad): RazorPad is a quick and simple stand-alone editing environment that allows anyone (even non-developers) to author Razor templates. It is the Notepad for Razor.
 
-- [**node-sqlserver**](https://github.com/Azure/node-sqlserver): null
+- [**node-sqlserver**](https://github.com/Azure/node-sqlserver): Empty
 
 - [**WebAPIContrib**](https://github.com/WebApiContrib/WebAPIContrib): Community Contributions for ASP.NET Web API
 
@@ -634,7 +634,7 @@
 
 - [**django**](https://github.com/django/django): The Web framework for perfectionists with deadlines.
 
-- [**WebActivator**](https://github.com/davidebbo/WebActivator): null
+- [**WebActivator**](https://github.com/davidebbo/WebActivator): Empty
 
 - [**XobotOS**](https://github.com/xamarin/XobotOS): XobotOS - Android ported to C#
 
@@ -658,7 +658,7 @@
 
 - [**artTemplate**](https://github.com/aui/artTemplate): 性能卓越的 js 模板引擎
 
-- [**DotNetOpenMail-0.5.8b-src**](https://github.com/dineshkummarc/DotNetOpenMail-0.5.8b-src): null
+- [**DotNetOpenMail-0.5.8b-src**](https://github.com/dineshkummarc/DotNetOpenMail-0.5.8b-src): Empty
 
 - [**SwitchyOmega**](https://github.com/FelisCatus/SwitchyOmega): Manage and switch between multiple proxies quickly & easily.
 
@@ -796,7 +796,7 @@
 
 - [**Openswan**](https://github.com/xelerance/Openswan): Openswan
 
-- [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows): null
+- [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows): Empty
 
 - [**pythontutorial**](https://github.com/sixu05202004/pythontutorial): python 2.7 tutorial 中文版本
 
@@ -818,7 +818,7 @@
 
 - [**yo**](https://github.com/yeoman/yo): CLI tool for running Yeoman generators
 
-- [**ZendOptimizerPlus**](https://github.com/zendtech/ZendOptimizerPlus): null
+- [**ZendOptimizerPlus**](https://github.com/zendtech/ZendOptimizerPlus): Empty
 
 - [**CrystalQuartz**](https://github.com/guryanovev/CrystalQuartz): a lightweight, completely pluggable module for displaying Quartz.NET scheduler jobs information
 
@@ -936,7 +936,7 @@
 
 - [**CodeHub**](https://github.com/thedillonb/CodeHub): CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!
 
-- [**CSharpVerbalExpressions**](https://github.com/VerbalExpressions/CSharpVerbalExpressions): null
+- [**CSharpVerbalExpressions**](https://github.com/VerbalExpressions/CSharpVerbalExpressions): Empty
 
 - [**FluentAssertions**](https://github.com/dennisdoomen/FluentAssertions): Fluent Assertions is a set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test. We currently use it in all our internal and client projects, and it is used in many open-source projects. It runs on .NET 4.0, 4.5, 4.6, CoreClr, .NET Native, Windows 8.1, Silverlight 5, Windows Phone 8.0 and UWP. It supports the unit test frameworks NUnit, XUnit, MBUnit, Gallio, NSpec and MSpec.
 
@@ -1026,7 +1026,7 @@
 
 - [**browser-sync**](https://github.com/BrowserSync/browser-sync): Keep multiple browsers & devices in sync when building websites. http://browsersync.io
 
-- [**ZeusMud**](https://github.com/AngryPowman/ZeusMud): null
+- [**ZeusMud**](https://github.com/AngryPowman/ZeusMud): Empty
 
 - [**Opserver**](https://github.com/opserver/Opserver): Stack Exchange's Monitoring System
 
@@ -1086,7 +1086,7 @@
 
 - [**LightWorkFlow**](https://github.com/xblader/LightWorkFlow): A lightweight workflow to handle activities and status.
 
-- [**andrewyuan.github.io**](https://github.com/andrewyuan/andrewyuan.github.io): null
+- [**andrewyuan.github.io**](https://github.com/andrewyuan/andrewyuan.github.io): Empty
 
 - [**angular-toastr**](https://github.com/Foxandxss/angular-toastr): Angular port of CodeSeven/toastr.
 
@@ -1136,7 +1136,7 @@
 
 - [**jBox**](https://github.com/StephanWagner/jBox): jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
 
-- [**boost.actor**](https://github.com/Neverlord/boost.actor): null
+- [**boost.actor**](https://github.com/Neverlord/boost.actor): Empty
 
 - [**workerman-todpole**](https://github.com/walkor/workerman-todpole): HTLM5+WebSocket+PHP(Workerman) , rumpetroll server writen using php
 
@@ -1160,7 +1160,7 @@
 
 - [**Open-XML-SDK**](https://github.com/OfficeDev/Open-XML-SDK): Open XML SDK by Microsoft Open Technologies, Inc.
 
-- [**tree-grid-directive**](https://github.com/khan4019/tree-grid-directive): null
+- [**tree-grid-directive**](https://github.com/khan4019/tree-grid-directive): Empty
 
 - [**protobuf-net**](https://github.com/mgravell/protobuf-net): Protocol Buffers library for idiomatic .NET 
 
@@ -1202,7 +1202,7 @@
 
 - [**protobuf**](https://github.com/google/protobuf): Protocol Buffers - Google's data interchange format
 
-- [**helix-toolkit**](https://github.com/helix-toolkit/helix-toolkit): null
+- [**helix-toolkit**](https://github.com/helix-toolkit/helix-toolkit): Empty
 
 - [**leveldb**](https://github.com/google/leveldb): LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 
@@ -1290,7 +1290,7 @@
 
 - [**coreclr**](https://github.com/dotnet/coreclr): This repo contains the .NET Core runtime, called CoreCLR, and the base library, called mscorlib. It includes the garbage collector, JIT compiler, base .NET data types and many low-level classes.
 
-- [**CPP-Actor-framework**](https://github.com/HAM-2015/CPP-Actor-framework): null
+- [**CPP-Actor-framework**](https://github.com/HAM-2015/CPP-Actor-framework): Empty
 
 - [**echarts-x**](https://github.com/ecomfe/echarts-x): Extension pack of ECharts providing globe visualization
 
@@ -1306,7 +1306,7 @@
 
 - [**markdown-plus**](https://github.com/tylingsoft/markdown-plus): Markdown editor with extra features.
 
-- [**sqlyog-community**](https://github.com/webyog/sqlyog-community): null
+- [**sqlyog-community**](https://github.com/webyog/sqlyog-community): Empty
 
 - [**gfwlist**](https://github.com/gfwlist/gfwlist): The one and only one gfwlist here
 
@@ -1326,9 +1326,9 @@
 
 - [**Orchard**](https://github.com/OrchardCMS/Orchard): Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.
 
-- [**NLPIR**](https://github.com/NLPIR-team/NLPIR): null
+- [**NLPIR**](https://github.com/NLPIR-team/NLPIR): Empty
 
-- [**ScriptSharp**](https://github.com/chribben/ScriptSharp): null
+- [**ScriptSharp**](https://github.com/chribben/ScriptSharp): Empty
 
 - [**gentelella**](https://github.com/puikinsh/gentelella): Free Bootstrap 3 Admin Template
 
@@ -1408,7 +1408,7 @@
 
 - [**trie**](https://github.com/mikedeboer/trie): My take on an efficient implementation of a Trie in Javascript
 
-- [**test**](https://github.com/ttionya/test): null
+- [**test**](https://github.com/ttionya/test): Empty
 
 - [**BaiduYun-PCS-Download**](https://github.com/ttionya/BaiduYun-PCS-Download): 使用百度 PCS 下载自己网盘中的资源
 
