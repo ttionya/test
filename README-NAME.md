@@ -6,56 +6,11 @@
 
 <br>
 
-## Contents
+## Contents 
 
-- [#](##)  
-- [A](#a)  
-- [B](#b)  
-- [C](#c)  
-- [D](#d)  
-- [E](#e)  
-- [F](#f)  
-- [G](#g)  
-- [H](#h)  
-- [I](#i)  
-- [J](#j)  
-- [K](#k)  
-- [L](#l)  
-- [M](#m)  
-- [N](#n)  
-- [O](#o)  
-- [P](#p)  
-- [Q](#q)  
-- [R](#r)  
-- [S](#s)  
-- [T](#t)  
-- [U](#u)  
-- [V](#v)  
-- [W](#w)  
-- [X](#x)  
-- [Y](#y)  
-- [Z](#z)  
 
 
 <br>
-
-## # 
-
-[**2**](https://github.com/m8w/2): The repository number 2  
-*Description*: just test  
-*Categories*: 测试, test, 呵呵
-
-[**2048**](https://github.com/gabrielecirulli/2048): A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)  
-
-
-[**3di-viewer-rei**](https://github.com/3di/3di-viewer-rei): Empty  
-
-
-[**7-days-nodejs**](https://github.com/nqdeng/7-days-nodejs): 七天学会NodeJS  
-
-
-[**960-Grid-System**](https://github.com/nathansmith/960-Grid-System): The 960 Grid System is an effort to streamline web development workflow.  
-
 
 ## A
 
