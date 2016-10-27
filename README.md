@@ -10,7 +10,7 @@
 
 - [Before](#before)
 
-- 2016: [10](#201610) 
+- 2016: [9](#20169) [10](#201610) 
 
 
 
@@ -22,9 +22,6 @@
 
 
 - [**Npoi.Core**](https://github.com/joshcomley/Npoi.Core): .NET Core port of NPOI  
-
-
-- [**prototype**](https://github.com/sstephenson/prototype): Prototype JavaScript framework  
 
 
 - [**sequel**](https://github.com/jeremyevans/sequel): Sequel: The Database Toolkit for Ruby  
@@ -1065,7 +1062,7 @@
 - [**charisma**](https://github.com/usmanhalalit/charisma): Free, responsive, multiple skin admin template  
 
 
-- [**DotNetOpenAuth**](https://github.com/DotNetOpenAuth/DotNetOpenAuth): A C# implementation of the OpenID, OAuth protocols  
+- [**prototype**](https://github.com/sstephenson/prototype): Prototype JavaScript framework  
 
 
 - [**Breeze**](https://github.com/IdeaBlade/Breeze): [WE'VE MOVED] Breeze.js is a JavaScript library for managing data in data rich-client HTML/JS applications.  
@@ -2112,6 +2109,15 @@
 - [**jQuery**](https://github.com/JsAaron/jQuery): 前端JQuery系列  
 
 
+## 2016.9
+
+- [**jquery**](https://github.com/davemerwin/jquery): jQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.  
+*Description*: just test  
+*Categories*: 测试, test, 呵呵
+
+- [**DotNetOpenAuth**](https://github.com/DotNetOpenAuth/DotNetOpenAuth): A C# implementation of the OpenID, OAuth protocols  
+
+
 ## 2016.10
 
 - [**trie**](https://github.com/mikedeboer/trie): My take on an efficient implementation of a Trie in Javascript  
@@ -2138,10 +2144,6 @@
 *Categories*: 测试, test, 呵呵
 
 - [**jquery**](https://github.com/360code/jquery): 基于jquery1.8.3，分析每个模块代码，了解其实现和设计，让我们在使用jQuery过程中，能够知其然，知其所以然，同时把jQuery不错的设计和实现引入到工作中来。  
-*Description*: just test  
-*Categories*: 测试, test, 呵呵
-
-- [**jquery**](https://github.com/davemerwin/jquery): jQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.  
 *Description*: just test  
 *Categories*: 测试, test, 呵呵
 
