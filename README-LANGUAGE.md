@@ -6,6 +6,42 @@
 
 <br>
 
+## Contents 
+
+- [Assembly](#Assembly)  
+- [AutoHotkey](#AutoHotkey)  
+- [C](#C)  
+- [C#](#C#)  
+- [C++](#C++)  
+- [CSS](#CSS)  
+- [CoffeeScript](#CoffeeScript)  
+- [Dart](#Dart)  
+- [F#](#F#)  
+- [GCC Machine Description](#GCC Machine Description)  
+- [Go](#Go)  
+- [HTML](#HTML)  
+- [Java](#Java)  
+- [JavaScript](#JavaScript)  
+- [Julia](#Julia)  
+- [LiveScript](#LiveScript)  
+- [Makefile](#Makefile)  
+- [Nemerle](#Nemerle)  
+- [Objective-C](#Objective-C)  
+- [PHP](#PHP)  
+- [Pascal](#Pascal)  
+- [Perl](#Perl)  
+- [Python](#Python)  
+- [Ruby](#Ruby)  
+- [Rust](#Rust)  
+- [Shell](#Shell)  
+- [Swift](#Swift)  
+- [TypeScript](#TypeScript)  
+- [Vue](#Vue)  
+- [XSLT](#XSLT)  
+
+
+<br>
+
 ## Assembly
 
 [**Apollo-11**](https://github.com/chrislgarry/Apollo-11): Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.  
