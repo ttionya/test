@@ -1428,6 +1428,9 @@
 [**node-rd**](https://github.com/leizongmin/node-rd): 列出（遍历）目录下的所有文件，包括子目录  
 
 
+[**node-request-retry**](https://github.com/FGRibreau/node-request-retry): :guardsman: Wrap NodeJS request module to retry http requests in case of errors  
+
+
 [**node-sass**](https://github.com/sass/node-sass): :rainbow: Node.js bindings to libsass  
 
 
