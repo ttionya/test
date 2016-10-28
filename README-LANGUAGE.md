@@ -38,6 +38,7 @@
 - [TypeScript](#typescript)  
 - [Vue](#vue)  
 - [XSLT](#xslt)  
+- [Other](#other)  
 
 
 <br>
