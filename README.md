@@ -2101,10 +2101,10 @@
 - [**serverspeeder**](https://github.com/91yun/serverspeeder): 锐速破解版  
 
 
-- [**jQuery**](https://github.com/JsAaron/jQuery): 前端JQuery系列  
-
-
 - [**node-request-retry**](https://github.com/FGRibreau/node-request-retry): :guardsman: Wrap NodeJS request module to retry http requests in case of errors  
+
+
+- [**jQuery**](https://github.com/JsAaron/jQuery): 前端JQuery系列  
 
 
 - [**Snipaste-Feedback**](https://github.com/liulex/Snipaste-Feedback): Snipaste public repo  
