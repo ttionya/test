@@ -19,7 +19,7 @@
 - [**io**](https://github.com/stevedekorte/io): Io programming language  
 
 
-- [**Npoi.Core**](https://github.com/joshcomley/Npoi.Core): .NET Core port of NPOI  
+- [**Snappy.Sharp**](https://github.com/jeffesp/Snappy.Sharp): An implementation of google's Snappy compression format in C#  
 
 
 - [**sequel**](https://github.com/jeremyevans/sequel): Sequel: The Database Toolkit for Ruby  
@@ -2089,9 +2089,6 @@
 - [**docker-ipsec-vpn-server**](https://github.com/hwdsl2/docker-ipsec-vpn-server): Docker image to run an IPsec VPN server, with IPsec/L2TP and Cisco IPsec  
 
 
-- [**Snappy.Sharp**](https://github.com/jeffesp/Snappy.Sharp): An implementation of google's Snappy compression format in C#  
-
-
 - [**GithubStarManage**](https://github.com/golmic/GithubStarManage): Manage Your Github Stars.炒鸡方便地管理Github Star。  
 
 
@@ -2111,6 +2108,9 @@
 
 
 - [**node-github**](https://github.com/mikedeboer/node-github): node library to access the GitHub API  
+
+
+- [**Npoi.Core**](https://github.com/joshcomley/Npoi.Core): .NET Core port of NPOI  
 
 
 ## 2016.9
