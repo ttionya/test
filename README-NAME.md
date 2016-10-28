@@ -1840,6 +1840,9 @@
 [**SnappySharp**](https://github.com/Kintaro/SnappySharp): A native C# portation of Google's snappy compression/decompression library  
 
 
+[**Snipaste-Feedback**](https://github.com/liulex/Snipaste-Feedback): Snipaste public repo  
+
+
 [**SnippetDesigner**](https://github.com/mmanela/SnippetDesigner): The Snippet Designer is a plugin which enhances the Visual Studio IDE to allow a richer and more productive code snippet experience.   
 
 

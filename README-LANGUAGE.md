@@ -2230,6 +2230,9 @@
 [**pythontutorial3**](https://github.com/sixu05202004/pythontutorial3): python 3.5.1 tutorial中文版  
 
 
+[**Snipaste-Feedback**](https://github.com/liulex/Snipaste-Feedback): Snipaste public repo  
+
+
 [**test**](https://github.com/ttionya/test): *Description*: just test  
 *Categories*: 测试, test, 呵呵
 

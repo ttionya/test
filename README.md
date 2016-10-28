@@ -19,7 +19,7 @@
 - [**io**](https://github.com/stevedekorte/io): Io programming language  
 
 
-- [**Snappy.Sharp**](https://github.com/jeffesp/Snappy.Sharp): An implementation of google's Snappy compression format in C#  
+- [**Breeze**](https://github.com/IdeaBlade/Breeze): [WE'VE MOVED] Breeze.js is a JavaScript library for managing data in data rich-client HTML/JS applications.  
 
 
 - [**sequel**](https://github.com/jeremyevans/sequel): Sequel: The Database Toolkit for Ruby  
@@ -1063,10 +1063,10 @@
 - [**charisma**](https://github.com/usmanhalalit/charisma): Free, responsive, multiple skin admin template  
 
 
+- [**Snappy.Sharp**](https://github.com/jeffesp/Snappy.Sharp): An implementation of google's Snappy compression format in C#  
+
+
 - [**prototype**](https://github.com/sstephenson/prototype): Prototype JavaScript framework  
-
-
-- [**Breeze**](https://github.com/IdeaBlade/Breeze): [WE'VE MOVED] Breeze.js is a JavaScript library for managing data in data rich-client HTML/JS applications.  
 
 
 - [**knockout-mvc**](https://github.com/AndreyAkinshin/knockout-mvc): Power of Knockout.js for ASP.NET MVC  
@@ -2105,6 +2105,9 @@
 
 
 - [**node-request-retry**](https://github.com/FGRibreau/node-request-retry): :guardsman: Wrap NodeJS request module to retry http requests in case of errors  
+
+
+- [**Snipaste-Feedback**](https://github.com/liulex/Snipaste-Feedback): Snipaste public repo  
 
 
 - [**node-github**](https://github.com/mikedeboer/node-github): node library to access the GitHub API  
