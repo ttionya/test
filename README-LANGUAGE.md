@@ -1698,6 +1698,9 @@
 [**node-ffi**](https://github.com/node-ffi/node-ffi): Node.js Foreign Function Interface  
 
 
+[**node-github**](https://github.com/mikedeboer/node-github): node library to access the GitHub API  
+
+
 [**node-orm2**](https://github.com/dresende/node-orm2): Object Relational Mapping  
 
 

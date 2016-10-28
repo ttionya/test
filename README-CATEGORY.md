@@ -1419,6 +1419,9 @@
 [**node-ffi**](https://github.com/node-ffi/node-ffi): Node.js Foreign Function Interface  
 
 
+[**node-github**](https://github.com/mikedeboer/node-github): node library to access the GitHub API  
+
+
 [**node-gyp**](https://github.com/nodejs/node-gyp): Node.js native addon build tool  
 
 

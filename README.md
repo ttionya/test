@@ -277,6 +277,9 @@
 - [**mongo-csharp-driver**](https://github.com/mongodb/mongo-csharp-driver): .NET Driver for MongoDB  
 
 
+- [**Awsome-Front-End-learning-resource**](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource): :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）  
+
+
 - [**ReactiveUI**](https://github.com/reactiveui/ReactiveUI): A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform. Supports Xamarin.iOS, Xamarin.Android, Xamarin.Mac, Xamarin Forms, WPF, Windows Forms, Windows Phone 8, Windows Store and Universal Windows Platform (UWP).  
 
 
@@ -1060,10 +1063,10 @@
 - [**charisma**](https://github.com/usmanhalalit/charisma): Free, responsive, multiple skin admin template  
 
 
-- [**Snappy.Sharp**](https://github.com/jeffesp/Snappy.Sharp): An implementation of google's Snappy compression format in C#  
-
-
 - [**prototype**](https://github.com/sstephenson/prototype): Prototype JavaScript framework  
+
+
+- [**Breeze**](https://github.com/IdeaBlade/Breeze): [WE'VE MOVED] Breeze.js is a JavaScript library for managing data in data rich-client HTML/JS applications.  
 
 
 - [**knockout-mvc**](https://github.com/AndreyAkinshin/knockout-mvc): Power of Knockout.js for ASP.NET MVC  
@@ -1615,7 +1618,7 @@
 - [**SqlObjectHydrator**](https://github.com/jrote1/SqlObjectHydrator): An extremely fast library that maps IDataReaders to objects  
 
 
-- [**Awsome-Front-End-learning-resource**](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource): :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）  
+- [**rebirth**](https://github.com/greengerong/rebirth): GreenGerong(破狼) blog with Angular2.  
 
 
 - [**arduino**](https://github.com/ozanoner/arduino): arduino files  
@@ -1678,7 +1681,7 @@
 - [**gherkin**](https://github.com/cucumber/gherkin): Cross platform parser for the Gherkin language. Used by Cucumber to parse .feature files.  
 
 
-- [**rebirth**](https://github.com/greengerong/rebirth): GreenGerong(破狼) blog with Angular2.  
+- [**eme**](https://github.com/egoist/eme): ✏️ Elegant Markdown Editor.  
 
 
 - [**jquery.bsgrid**](https://github.com/baishui2004/jquery.bsgrid): 支持json、xml数据格式，皮肤丰富并且容易定制，支持表格编辑、本地数据、导出参数构建等实用便捷的功能，容易扩展，更拥有丰富的示例以及问题反馈的及时响应。  
@@ -2017,7 +2020,7 @@
 - [**ceryx**](https://github.com/sourcelair/ceryx): Dynamic reverse proxy based on NGINX OpenResty with an API  
 
 
-- [**eme**](https://github.com/egoist/eme): ✏️ Elegant Markdown Editor.  
+- [**Pomelo.Data.MySql**](https://github.com/PomeloFoundation/Pomelo.Data.MySql): Contains MySQL implementations of the System.Data.Common(Both .NET Core and .NET Framework) interfaces.  
 
 
 - [**WebMarkupMin**](https://github.com/Taritsyn/WebMarkupMin): The Web Markup Minifier (abbreviated WebMarkupMin) - a .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.  
@@ -2068,7 +2071,7 @@
 - [**kone**](https://github.com/xjdrew/kone): Transparent proxy for home/enterprise network  
 
 
-- [**Pomelo.Data.MySql**](https://github.com/PomeloFoundation/Pomelo.Data.MySql): Contains MySQL implementations of the System.Data.Common(Both .NET Core and .NET Framework) interfaces.  
+- [**NanUI**](https://github.com/NetDimension/NanUI): NanUI是一个基于ChromiumFX开源项目和Chromium Embedded Framework(CEF)开源项目的，能够使用Html5、CSS3和Javascript构建.NET Winform界面的开源项目。  
 
 
 - [**uWebSockets**](https://github.com/uWebSockets/uWebSockets): Highly scalable WebSocket server & client library  
@@ -2086,10 +2089,7 @@
 - [**docker-ipsec-vpn-server**](https://github.com/hwdsl2/docker-ipsec-vpn-server): Docker image to run an IPsec VPN server, with IPsec/L2TP and Cisco IPsec  
 
 
-- [**NanUI**](https://github.com/NetDimension/NanUI): NanUI是一个基于ChromiumFX开源项目和Chromium Embedded Framework(CEF)开源项目的，能够使用Html5、CSS3和Javascript构建.NET Winform界面的开源项目。  
-
-
-- [**Breeze**](https://github.com/IdeaBlade/Breeze): [WE'VE MOVED] Breeze.js is a JavaScript library for managing data in data rich-client HTML/JS applications.  
+- [**Snappy.Sharp**](https://github.com/jeffesp/Snappy.Sharp): An implementation of google's Snappy compression format in C#  
 
 
 - [**GithubStarManage**](https://github.com/golmic/GithubStarManage): Manage Your Github Stars.炒鸡方便地管理Github Star。  
@@ -2108,6 +2108,9 @@
 
 
 - [**node-request-retry**](https://github.com/FGRibreau/node-request-retry): :guardsman: Wrap NodeJS request module to retry http requests in case of errors  
+
+
+- [**node-github**](https://github.com/mikedeboer/node-github): node library to access the GitHub API  
 
 
 ## 2016.9
