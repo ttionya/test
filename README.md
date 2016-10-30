@@ -2147,6 +2147,3 @@
 *Description*: just test  
 *Categories*: 测试, test, 呵呵
 
-- [**BaiduYun-PCS-Download**](https://github.com/ttionya/BaiduYun-PCS-Download): 使用百度 PCS 下载自己网盘中的资源  
-
-
