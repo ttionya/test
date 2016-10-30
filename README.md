@@ -10,6 +10,7 @@
 
 - [Before](#before)  
 - 2016: [9](#20169) [10](#201610)   
+- NaN: [NaN](#NaNNaN)   
 
 
 <br>
@@ -2151,6 +2152,8 @@
 *Description*: just test  
 *Categories*: 测试, test, 呵呵
 
-- [**test**](https://github.com/ttionya/test): *Description*: 2333  
-*Categories*: test1,test2
+## NaN.NaN
+
+- [**test**](https://github.com/ttionya/test): *Description*: 23332323232323  
+*Categories*: test11
 
