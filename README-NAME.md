@@ -182,7 +182,7 @@
 
 [**BaiduYun-PCS-Download**](https://github.com/ttionya/BaiduYun-PCS-Download): 使用百度 PCS 下载自己网盘中的资源  
 *Description*: 23332323  
-*Categories*: 测试, test, 呵呵
+
 
 [**balanced-dashboard**](https://github.com/balanced/balanced-dashboard): The Balanced dashboard.  
 
@@ -1925,9 +1925,6 @@
 
 [**tesseract**](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)  
 
-
-[**test**](https://github.com/ttionya/test): *Description*: 23332323  
-*Categories*: test11
 
 [**three.js**](https://github.com/mrdoob/three.js): JavaScript 3D library.  
 

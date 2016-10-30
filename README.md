@@ -10,7 +10,6 @@
 
 - [Before](#before)  
 - 2016: [9](#20169) [10](#201610)   
-- NaN: [NaN](#NaNNaN)   
 
 
 <br>
@@ -2090,6 +2089,9 @@
 - [**docker-ipsec-vpn-server**](https://github.com/hwdsl2/docker-ipsec-vpn-server): Docker image to run an IPsec VPN server, with IPsec/L2TP and Cisco IPsec  
 
 
+- [**Npoi.Core**](https://github.com/joshcomley/Npoi.Core): .NET Core port of NPOI  
+
+
 - [**GithubStarManage**](https://github.com/golmic/GithubStarManage): Manage Your Github Stars.炒鸡方便地管理Github Star。  
 
 
@@ -2112,9 +2114,6 @@
 
 
 - [**node-github**](https://github.com/mikedeboer/node-github): node library to access the GitHub API  
-
-
-- [**Npoi.Core**](https://github.com/joshcomley/Npoi.Core): .NET Core port of NPOI  
 
 
 ## 2016.9
@@ -2148,12 +2147,7 @@
 *Description*: just test  
 *Categories*: 测试, test, 呵呵
 
-## NaN.NaN
-
 - [**BaiduYun-PCS-Download**](https://github.com/ttionya/BaiduYun-PCS-Download): 使用百度 PCS 下载自己网盘中的资源  
 *Description*: 23332323  
-*Categories*: 测试, test, 呵呵
 
-- [**test**](https://github.com/ttionya/test): *Description*: 23332323  
-*Categories*: test11
 

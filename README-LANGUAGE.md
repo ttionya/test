@@ -1268,7 +1268,7 @@
 
 [**BaiduYun-PCS-Download**](https://github.com/ttionya/BaiduYun-PCS-Download): 使用百度 PCS 下载自己网盘中的资源  
 *Description*: 23332323  
-*Categories*: 测试, test, 呵呵
+
 
 [**balanced-dashboard**](https://github.com/balanced/balanced-dashboard): The Balanced dashboard.  
 
@@ -2232,9 +2232,6 @@
 
 [**Snipaste-Feedback**](https://github.com/liulex/Snipaste-Feedback): Snipaste public repo  
 
-
-[**test**](https://github.com/ttionya/test): *Description*: 23332323  
-*Categories*: test11
 
 [**XiaoCai.WinformUI**](https://github.com/aganqin/XiaoCai.WinformUI): XiaoCai.WinformUI is for UI solution  
 
