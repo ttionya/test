@@ -1926,8 +1926,8 @@
 [**tesseract**](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)  
 
 
-[**test**](https://github.com/ttionya/test): *Description*: just test  
-*Categories*: 测试, test, 呵呵
+[**test**](https://github.com/ttionya/test): Empty  
+
 
 [**three.js**](https://github.com/mrdoob/three.js): JavaScript 3D library.  
 

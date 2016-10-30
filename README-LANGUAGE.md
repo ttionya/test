@@ -2233,8 +2233,8 @@
 [**Snipaste-Feedback**](https://github.com/liulex/Snipaste-Feedback): Snipaste public repo  
 
 
-[**test**](https://github.com/ttionya/test): *Description*: just test  
-*Categories*: 测试, test, 呵呵
+[**test**](https://github.com/ttionya/test): Empty  
+
 
 [**XiaoCai.WinformUI**](https://github.com/aganqin/XiaoCai.WinformUI): XiaoCai.WinformUI is for UI solution  
 

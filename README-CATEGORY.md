@@ -42,9 +42,6 @@
 *Description*: just test  
 *Categories*: 测试, test, 呵呵
 
-[**test**](https://github.com/ttionya/test): *Description*: just test  
-*Categories*: 测试, test, 呵呵
-
 [**trie**](https://github.com/mikedeboer/trie): My take on an efficient implementation of a Trie in Javascript  
 *Description*: just test  
 *Categories*: 测试, test, 呵呵
@@ -75,9 +72,6 @@
 *Description*: just test  
 *Categories*: 测试, test, 呵呵
 
-[**test**](https://github.com/ttionya/test): *Description*: just test  
-*Categories*: 测试, test, 呵呵
-
 [**trie**](https://github.com/mikedeboer/trie): My take on an efficient implementation of a Trie in Javascript  
 *Description*: just test  
 *Categories*: 测试, test, 呵呵
@@ -106,9 +100,6 @@
 
 [**jquery**](https://github.com/davemerwin/jquery): jQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.  
 *Description*: just test  
-*Categories*: 测试, test, 呵呵
-
-[**test**](https://github.com/ttionya/test): *Description*: just test  
 *Categories*: 测试, test, 呵呵
 
 [**trie**](https://github.com/mikedeboer/trie): My take on an efficient implementation of a Trie in Javascript  
@@ -1963,6 +1954,9 @@
 
 
 [**tesseract**](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)  
+
+
+[**test**](https://github.com/ttionya/test): Empty  
 
 
 [**three.js**](https://github.com/mrdoob/three.js): JavaScript 3D library.  
