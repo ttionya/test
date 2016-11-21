@@ -1718,6 +1718,10 @@
 [**npm**](https://github.com/npm/npm): a package manager for javascript  
 
 
+[**nrm**](https://github.com/Pana/nrm): NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao  
+*Description*: 深度学习  
+*Categories*: 深度学习
+
 [**onepage-scroll**](https://github.com/peachananr/onepage-scroll): Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin  
 
 
