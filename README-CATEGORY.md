@@ -11,8 +11,6 @@
 - [test](#test)  
 - [呵呵](#呵呵)  
 - [测试](#测试)  
-- [深度学习](#深度学习)  
-- [深度学习项目](#深度学习项目)  
 - [Other](#other)  
 
 
@@ -83,18 +81,6 @@
 [**trie**](https://github.com/mikedeboer/trie): My take on an efficient implementation of a Trie in Javascript  
 *Description*: just test  
 *Categories*: 测试, test, 呵呵
-
-## 深度学习
-
-[**nrm**](https://github.com/Pana/nrm): NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao  
-*Description*: 深度学习  
-*Categories*: 深度学习, 深度学习项目
-
-## 深度学习项目
-
-[**nrm**](https://github.com/Pana/nrm): NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao  
-*Description*: 深度学习  
-*Categories*: 深度学习, 深度学习项目
 
 ## Other 
 

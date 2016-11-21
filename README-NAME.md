@@ -1418,10 +1418,6 @@
 [**Npoi.Core**](https://github.com/joshcomley/Npoi.Core): .NET Core port of NPOI  
 
 
-[**nrm**](https://github.com/Pana/nrm): NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao  
-*Description*: 深度学习  
-*Categories*: 深度学习, 深度学习项目
-
 [**NServiceBus**](https://github.com/Particular/NServiceBus): The most popular service bus for .NET  
 
 

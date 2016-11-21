@@ -956,8 +956,6 @@
 
 - [**Npoi.Core**](https://github.com/joshcomley/Npoi.Core): .NET Core port of NPOI
 
-- [**nrm**](https://github.com/Pana/nrm): NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
-
 - [**NServiceBus**](https://github.com/Particular/NServiceBus): The most popular service bus for .NET
 
 - [**NUglify**](https://github.com/xoofx/NUglify): NUglify is a HTML, JavaScript and CSS minification Library for .NET (fork of AjaxMin + new features)
