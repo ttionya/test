@@ -8,7 +8,6 @@
 
 ## Contents 
 
-- [233](#233)  
 - [test](#test)  
 - [呵呵](#呵呵)  
 - [测试](#测试)  
@@ -16,12 +15,6 @@
 
 
 <br>
-
-## 233
-
-[**Awesome-List-Generator**](https://github.com/ttionya/Awesome-List-Generator): Still in development  
-*Description*: 2333  
-*Categories*: 233
 
 ## test
 

@@ -2155,7 +2155,3 @@
 *Description*: 百度网盘下载器  
 
 
-- [**Awesome-List-Generator**](https://github.com/ttionya/Awesome-List-Generator): Still in development  
-*Description*: 2333  
-*Categories*: 233
-

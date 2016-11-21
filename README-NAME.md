@@ -158,10 +158,6 @@
 [**awesome-android-ui**](https://github.com/wasabeef/awesome-android-ui): A curated list of awesome Android UI/UX libraries  
 
 
-[**Awesome-List-Generator**](https://github.com/ttionya/Awesome-List-Generator): Still in development  
-*Description*: 2333  
-*Categories*: 233
-
 [**awesome-nodejs**](https://github.com/sindresorhus/awesome-nodejs): :zap: Delightful Node.js packages and resources  
 
 

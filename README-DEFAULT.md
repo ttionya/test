@@ -110,8 +110,6 @@
 
 - [**awesome-android-ui**](https://github.com/wasabeef/awesome-android-ui): A curated list of awesome Android UI/UX libraries
 
-- [**Awesome-List-Generator**](https://github.com/ttionya/Awesome-List-Generator): Still in development
-
 - [**awesome-nodejs**](https://github.com/sindresorhus/awesome-nodejs): :zap: Delightful Node.js packages and resources
 
 - [**awesome-power-mode**](https://github.com/codeinthedark/awesome-power-mode): Awesome Power Mode
