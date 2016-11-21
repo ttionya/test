@@ -8,7 +8,8 @@
 
 ## Contents 
 
-- [ALG,Awesome](#alg,awesome)  
+- [ALG](#alg)  
+- [Awesome](#awesome)  
 - [test](#test)  
 - [呵呵](#呵呵)  
 - [测试](#测试)  
@@ -17,11 +18,17 @@
 
 <br>
 
-## ALG,Awesome
+## ALG
 
 [**Awesome-List-Generator**](https://github.com/ttionya/Awesome-List-Generator): Still in development  
 *Description*: just test categories  
-*Categories*: ALG,Awesome
+*Categories*: ALG, Awesome
+
+## Awesome
+
+[**Awesome-List-Generator**](https://github.com/ttionya/Awesome-List-Generator): Still in development  
+*Description*: just test categories  
+*Categories*: ALG, Awesome
 
 ## test
 
