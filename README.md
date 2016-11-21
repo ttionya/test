@@ -2157,5 +2157,5 @@
 
 - [**Awesome-List-Generator**](https://github.com/ttionya/Awesome-List-Generator): Still in development  
 *Description*: 2333  
-*Categories*: 233, test1
+*Categories*: 233
 

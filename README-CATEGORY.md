@@ -10,7 +10,6 @@
 
 - [233](#233)  
 - [test](#test)  
-- [test1](#test1)  
 - [呵呵](#呵呵)  
 - [测试](#测试)  
 - [Other](#other)  
@@ -22,7 +21,7 @@
 
 [**Awesome-List-Generator**](https://github.com/ttionya/Awesome-List-Generator): Still in development  
 *Description*: 2333  
-*Categories*: 233, test1
+*Categories*: 233
 
 ## test
 
@@ -45,12 +44,6 @@
 [**trie**](https://github.com/mikedeboer/trie): My take on an efficient implementation of a Trie in Javascript  
 *Description*: just test  
 *Categories*: 测试, test, 呵呵
-
-## test1
-
-[**Awesome-List-Generator**](https://github.com/ttionya/Awesome-List-Generator): Still in development  
-*Description*: 2333  
-*Categories*: 233, test1
 
 ## 呵呵
 
