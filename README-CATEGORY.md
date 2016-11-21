@@ -11,7 +11,6 @@
 - [test](#test)  
 - [呵呵](#呵呵)  
 - [测试](#测试)  
-- [深度学习](#深度学习)  
 - [Other](#other)  
 
 
@@ -82,12 +81,6 @@
 [**trie**](https://github.com/mikedeboer/trie): My take on an efficient implementation of a Trie in Javascript  
 *Description*: just test  
 *Categories*: 测试, test, 呵呵
-
-## 深度学习
-
-[**kcws**](https://github.com/koth/kcws): Deep Learning Chinese Word Segment   
-*Description*: 深度学习  
-*Categories*: 深度学习
 
 ## Other 
 
@@ -1095,6 +1088,10 @@
 
 
 [**kbengine**](https://github.com/kbengine/kbengine): A MMOG engine of server.  
+
+
+[**kcws**](https://github.com/koth/kcws): Deep Learning Chinese Word Segment   
+*Description*: 深度学习  
 
 
 [**kityminder**](https://github.com/fex-team/kityminder): 百度脑图  
