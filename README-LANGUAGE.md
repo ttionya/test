@@ -848,6 +848,10 @@
 [**Javascript.Net**](https://github.com/JavascriptNet/Javascript.Net): .Net bindings to the V8 JavaScript engine  
 
 
+[**kcws**](https://github.com/koth/kcws): Deep Learning Chinese Word Segment   
+*Description*: 深度学习  
+*Categories*: 深度学习
+
 [**leveldb**](https://github.com/google/leveldb): LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.  
 
 

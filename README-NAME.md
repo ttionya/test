@@ -1058,6 +1058,10 @@
 [**kbengine**](https://github.com/kbengine/kbengine): A MMOG engine of server.  
 
 
+[**kcws**](https://github.com/koth/kcws): Deep Learning Chinese Word Segment   
+*Description*: 深度学习  
+*Categories*: 深度学习
+
 [**kityminder**](https://github.com/fex-team/kityminder): 百度脑图  
 
 

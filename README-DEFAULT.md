@@ -714,6 +714,8 @@
 
 - [**kbengine**](https://github.com/kbengine/kbengine): A MMOG engine of server.
 
+- [**kcws**](https://github.com/koth/kcws): Deep Learning Chinese Word Segment 
+
 - [**kityminder**](https://github.com/fex-team/kityminder): 百度脑图
 
 - [**knockout**](https://github.com/knockout/knockout): Knockout makes it easier to create rich, responsive UIs with JavaScript

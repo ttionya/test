@@ -2155,3 +2155,7 @@
 *Description*: 百度网盘下载器  
 
 
+- [**kcws**](https://github.com/koth/kcws): Deep Learning Chinese Word Segment   
+*Description*: 深度学习  
+*Categories*: 深度学习
+
