@@ -2157,5 +2157,5 @@
 
 - [**nrm**](https://github.com/Pana/nrm): NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao  
 *Description*: 深度学习  
-*Categories*: 深度学习
+*Categories*: 深度学习, 深度学习项目
 
